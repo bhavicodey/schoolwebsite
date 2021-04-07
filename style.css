@@ -1,0 +1,76 @@
+#School{
+background:linear-gradient(#60ebeb 0%, #27ae60 100%);}
+}
+
+body {
+    text-align: center;
+    background-color: red;
+}
+
+.line {
+    height: 5px;
+    background-color: aquamarine;
+    width: 180px;
+    margin: 10px auto;
+    margin-top: -30px;
+}
+
+#apps {
+    height: 1000px;
+    width: 100%;
+    background-color: aqua;
+}
+
+#games {
+    height: 600px;
+    width: 100%;
+    background-color: blue;
+}
+
+
+#chatbot {
+    height: 600px;
+    width: 100%;
+    background-color: palevioletred;
+}
+
+
+
+
+img {
+    height: 300px;
+    width: 400px;
+    border-radius: 50px;
+    transition: transform .2s;
+    margin: 50px;
+}
+
+img:hover {
+    transform: scale(0.9)
+}
+
+h1 {
+    font-size: 70px;
+}
+
+#myCarousel {
+    background-color: azure;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: white;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+}
